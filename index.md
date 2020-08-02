@@ -1,6 +1,5 @@
-## Welcome
 
-### General Network Information
+## General Network Information
 ```
 AS number: 59598
 AS set: as-olvps
